@@ -1,6 +1,7 @@
 ---------------- GIT PART 2 ---------------- 
 
-1. GitHub allows you to host your code repositories online. I'll set up everything for it in this video. I'll also cover remote depositories in general.
+1. GitHub allows you to host your code repositories online. I'll set up everything for it in this video
+. I'll also cover remote repositories in general.
 
 2. Remote repositories are normally read only, or read write only to those who are authorized 
 
