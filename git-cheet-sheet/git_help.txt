@@ -195,3 +195,9 @@ b. Normally done if you forgot to stage a file, or to change the commit message
 17. ---------------- Unstage a File ---------------- 
 
 a. git reset HEAD AndroidManifest.xml
+
+********Extras**********
+
+formatting help for README file
+
+link->https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
