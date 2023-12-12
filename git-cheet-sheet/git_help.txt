@@ -178,7 +178,7 @@ f. git log --since=1.weeks # Show only changes in the last week
 
 g. git log --since="2014-04-12" # Show changes since this date
 
-h. git log --author="Derek Banas" # Changes made by author
+h. git log --author="Awez Shaikh" # Changes made by author
 
 i. git log --before="2014-04-13" # Changes made before this date
 ----------------------------------------------------------------------------------------------------------------
