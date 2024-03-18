@@ -15,9 +15,11 @@ b. git add . # Stages all new and modified files and directories
 
 c. git commit -m 'Initial Project Version'
 
-d. git remote add origin https://github.com/derekbanas/SimpleFragment.git
+d. git remote add origin https://github.com/craxex9141/react-app.git
 
-e. git push origin master
+e. git branch -M main
+
+f. git push -u origin main
 
 5. git remote -v # Lists all remotes and their URLs
 
